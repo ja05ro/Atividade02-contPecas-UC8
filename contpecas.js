@@ -9,11 +9,11 @@ for(let contPecas = 0; contPecas <= numPecas;contPecas++){
     if(contPecas==0){
         console.log("O numero atual é zero");
     
-    }else if(contPecas%2==0){
+    }else if(contPecas%2 ==0){
 
-        console.log("O Numero "+contPecas+" é par");
+        console.log("O Numero "+ contPecas +" é par");
 
     }else{
-        console.log("O Numero "+contPecas+" é impar");
+        console.log("O Numero "+ contPecas +" é impar");
     }
 }
